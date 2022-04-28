@@ -4,6 +4,7 @@ describe("Test for Explorer Controller", ()=>
 {
     test("1.",()=>
     {
+        const controller = ExplorerController.getExplorersByMission("node")
         
     })
 })
